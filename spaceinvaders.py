@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # Space Invaders
-# Created by Lee Robinson Revised and edited by Connor Siedentop
+# Created by Connor Siedentop
 
 from pygame import *
 import sys
